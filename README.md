@@ -30,7 +30,7 @@ A fully responsive **Twitter home page clone** built using **TailwindCSS**, ensu
 
 ## Screenshots 📸
 
-![Home Page](Screenshot 2025-03-18 113010.png)
+![Home Page](Screenshot2025-03-18113010.png)
 *Twitter home page clone UI*
 
 ## Inspiration 💡
